@@ -31,6 +31,8 @@ public class Main {
 
 
         // --- LÍNEA 3 ---
+        zoo.add(new Lince("SALIEGA"));
+
 
 
         // --- LÍNEA 4 ---
