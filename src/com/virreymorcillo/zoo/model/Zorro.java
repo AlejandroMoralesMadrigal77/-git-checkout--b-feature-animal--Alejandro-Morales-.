@@ -1,4 +1,4 @@
-
+package com.virreymorcillo.zoo.model;
 public class Zorro extends Animal {
     public Zorro(String nombre) {
         super(nombre);
