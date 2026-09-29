@@ -34,7 +34,7 @@ public class Main {
 
 
         // --- LÍNEA 4 ---
-
+        zoo.add(new Rinoceronte("Rino"));
 
         // --- LÍNEA 5 ---
 
