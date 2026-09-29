@@ -7,6 +7,6 @@ public class Oso extends Animal{
 
     @Override
     public void makeSound() {
-
+        System.out.println(nombre + "(Oso) aulla y balida");
     }
 }
