@@ -37,7 +37,7 @@ public class Main {
 
 
         // --- LÍNEA 5 ---
-
+        zoo.add(new Perro("Mark"));
 
         // --- LÍNEA 6 ---
 
