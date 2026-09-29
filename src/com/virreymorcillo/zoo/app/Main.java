@@ -25,19 +25,21 @@ public class Main {
         List<Animal> zoo = new ArrayList<>();
 
         // --- LÍNEA 1 ---
-
+        zoo.add(new Oso("panda"));
 
         // --- LÍNEA 2 ---
 
 
         // --- LÍNEA 3 ---
+        zoo.add(new Lince("SALIEGA"));
+
 
 
         // --- LÍNEA 4 ---
-
+        zoo.add(new Rinoceronte("Rino"));
 
         // --- LÍNEA 5 ---
-
+        zoo.add(new Perro("Mark"));
 
         // --- LÍNEA 6 ---
 
